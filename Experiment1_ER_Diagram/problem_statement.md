@@ -8,47 +8,6 @@ Gain hands-on experience in designing ER diagrams that represent database struct
 
 ---
 
-# Scenario A: City Fitness Club Management
-
-**Business Context:**  
-FlexiFit Gym wants a database to manage its members, trainers, and fitness programs.
-
-**Requirements:**  
-- Members register with name, membership type, and start date.  
-- Each member can join multiple programs (Yoga, Zumba, Weight Training).  
-- Trainers assigned to programs; a program may have multiple trainers.  
-- Members may book personal training sessions with trainers.  
-- Attendance recorded for each session.  
-- Payments tracked for memberships and sessions.
-
-### ER Diagram:
-*Paste or attach your diagram here*  
-![ER Diagram](er_diagram_fitness.png)
-
-### Entities and Attributes
-
-| Entity | Attributes (PK, FK) | Notes |
-|--------|--------------------|-------|
-|        |                    |       |
-|        |                    |       |
-|        |                    |       |
-|        |                    |       |
-|        |                    |       |
-
-### Relationships and Constraints
-
-| Relationship | Cardinality | Participation | Notes |
-|--------------|------------|---------------|-------|
-|              |            |               |       |
-|              |            |               |       |
-|              |            |               |       |
-
-### Assumptions
-- 
-- 
-- 
-
----
 
 # Scenario B: City Library Event & Book Lending System
 
@@ -67,72 +26,7 @@ The Central Library wants to manage book lending and cultural events.
 *Paste or attach your diagram here*  
 ![ER Diagram](er_diagram_library.png)
 
-### Entities and Attributes
-
-| Entity | Attributes (PK, FK) | Notes |
-|--------|--------------------|-------|
-|        |                    |       |
-|        |                    |       |
-|        |                    |       |
-|        |                    |       |
-|        |                    |       |
-
-### Relationships and Constraints
-
-| Relationship | Cardinality | Participation | Notes |
-|--------------|------------|---------------|-------|
-|              |            |               |       |
-|              |            |               |       |
-|              |            |               |       |
-
-### Assumptions
-- 
-- 
-- 
-
----
-
-# Scenario C: Restaurant Table Reservation & Ordering
-
-**Business Context:**  
-A popular restaurant wants to manage reservations, orders, and billing.
-
-**Requirements:**  
-- Customers can reserve tables or walk in.  
-- Each reservation includes date, time, and number of guests.  
-- Customers place food orders linked to reservations.  
-- Each order contains multiple dishes; dishes belong to categories (starter, main, dessert).  
-- Bills generated per reservation, including food and service charges.  
-- Waiters assigned to serve reservations.
-
-### ER Diagram:
-*Paste or attach your diagram here*  
-![ER Diagram](er_diagram_restaurant.png)
-
-### Entities and Attributes
-
-| Entity | Attributes (PK, FK) | Notes |
-|--------|--------------------|-------|
-|        |                    |       |
-|        |                    |       |
-|        |                    |       |
-|        |                    |       |
-|        |                    |       |
-
-### Relationships and Constraints
-
-| Relationship | Cardinality | Participation | Notes |
-|--------------|------------|---------------|-------|
-|              |            |               |       |
-|              |            |               |       |
-|              |            |               |       |
-
-### Assumptions
-- 
-- 
-- 
-
----
+<img width="663" height="690" alt="image" src="https://github.com/user-attachments/assets/5c6bda0f-a628-4183-9bbf-ffa96915b49d" />
 
 ## Instructions for Students
 
